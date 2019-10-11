@@ -24,7 +24,7 @@ var obj2 = JSON.parse(JSON.stringify(obj))
 - 过滤原型属性
 - 复制环
 
-具体逻辑参考` deepClone/index.js`
+具体逻辑参考 [./deepClone/index.js](https://github.com/wheadplus/front-end-improvement/blob/master/deepClone/index.js)
 执行测试代码
 ```
 yarn test-clone
