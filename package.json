@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test-clone": "mocha ./deepClone/test.js"
+    "test-clone": "mocha ./deepClone/test.js",
+    "test-eventhub": "mocha ./eventHub/test.js"
   },
   "devDependencies": {
     "chai": "^4.2.0",
