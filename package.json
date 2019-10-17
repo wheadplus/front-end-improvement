@@ -5,7 +5,8 @@
   "license": "MIT",
   "scripts": {
     "test-clone": "mocha ./deepClone/test.js",
-    "test-eventhub": "mocha ./eventHub/test.js"
+    "test-eventhub": "mocha ./eventHub/test.js",
+    "test-bind": "mocha ./src/bind/test.js"
   },
   "devDependencies": {
     "chai": "^4.2.0",
